@@ -1,0 +1,5 @@
+E:\C#代码\knnprogram\knnprogram\bin\Debug\knnprogram.exe
+E:\C#代码\knnprogram\knnprogram\bin\Debug\knnprogram.pdb
+E:\C#代码\knnprogram\knnprogram\obj\Debug\knnprogram.csprojResolveAssemblyReference.cache
+E:\C#代码\knnprogram\knnprogram\obj\Debug\knnprogram.exe
+E:\C#代码\knnprogram\knnprogram\obj\Debug\knnprogram.pdb
